@@ -15,5 +15,6 @@ This suite automates 12 test cases for the SauceDemo application using **Playwri
 ## How to Run
 1. Clone this repository.
 2. Install dependencies: `npm install`
-3. Run the tests: `npx playwright test`
-4. View the report: `npx playwright show-report`
+3. Install playwright: `npx playwright install`
+4. Run the tests: `npx playwright test`
+5. View the report: `npx playwright show-report`
